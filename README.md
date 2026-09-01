@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b66,100:00b4d8&height=180&section=header&text=Muhammad%20Filah%20Isya'%20Nofatari&fontSize=30&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Bachelor+of+Fisheries+(S.Pi.)+%7C+Padjadjaran+University;Aquaculture+Researcher+%26+Data+Analyst;IoT+Prototyping+%26+Embedded+Systems;Educational+Digital+Content+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Bachelor+of+Fisheries+(S.Pi.)+%7C+Padjadjaran+University;Aquaculture+Researcher+%26++Digital+Content+Creator" />
 </p>
 
 ---
