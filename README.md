@@ -8,7 +8,7 @@
 
 ---
 
-### 🪪 CYBERPUNK AGENT IDENTIFICATION
+### 🪪  AGENT IDENTIFICATION
 
 <div align="center">
   <table>
