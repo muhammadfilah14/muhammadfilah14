@@ -1,4 +1,3 @@
-# Hi there, I'm Muhammad Filah Isya' Nofatari 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7928ca,100:00f0ff&height=180&section=header&text=Muhammad%20Filah%20Isya'%20Nofatari&fontSize=30&animation=fadeIn" width="100%" />
 
